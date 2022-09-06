@@ -13,7 +13,7 @@ const Footer = () => {
                     <Link href='/tienda'>Tienda</Link>
                 </nav>
 
-                <p className={styles.copyright}>&copy; María Pinto, Todos los derechos reservados</p>
+                <p className={styles.copyright}>&copy; Todos los derechos reservados</p>
             </div>
         </footer>
     )

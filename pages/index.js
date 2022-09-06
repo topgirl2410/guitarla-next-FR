@@ -10,6 +10,7 @@ export default function Home() {
       pagina='Home'
     >
       <h1>Desde Inicio...</h1>
+
     </Layout>
 
   )
